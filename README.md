@@ -1,4 +1,5 @@
 # TikTokComments
-Use UIStackView with AutoLayout to implement a simplified version of Douyin comments.
+Use UIStackView with AutoLayout to implement a simplified version of TikTok comments.
 
-https://raw.githubusercontent.com/RakuyoKit/TikTokComments/main/Images/55584_1711693791_raw.mp4
+https://github.com/RakuyoKit/TikTokComments/assets/16268770/219e3cb5-dcf2-4857-931b-d25cbf4bb103
+
